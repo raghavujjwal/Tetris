@@ -1,2 +1,2 @@
 # Tetris
-#Building a Teris game from scratch using pygame.
+#Built a Teris game from scratch using pygame.
